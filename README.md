@@ -2,7 +2,7 @@
 
 **sowcheikh/sowcheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi I am Cheikh Sow from in Senega:
+Hi I am Cheikh Sow from in Senegal:
 
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning Laravel
