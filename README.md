@@ -12,3 +12,4 @@ Hi I am Cheikh Sow from in Senegal:
 - 📫 How to reach me: Twitter (https://twitter.com/kheuch124)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am verry happy!!!
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
